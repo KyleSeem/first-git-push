@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#container{
+	width: 736px;
+	height: auto;
+	color: white;
+	background: black;
+	overflow: hidden;
+	margin: auto;
+	padding: 5px 10px;
+}
+img{
+	border: 3px solid white;
+	border-style: ridge;
+}
+p{
+	margin: 20px 0px;
+	padding-right: 2px;
+}
